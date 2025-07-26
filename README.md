@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHDH2011
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning data science libraries in python like numpy and pandas
+- 👀 I’m interested in Algorithm and Competetive Programming
+- 🌱 I’m currently learning Web, both Backend and Frontednd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mohammadhoseindoostani@gmail.com
 - 😄 Pronouns: ...
